@@ -129,7 +129,7 @@ Exemplo:
 report_20-02-2026_15-25-45.json
 
 Exemplo de conteúdo:
-
+```text
 {
     processado: 0,
     adicionado: 0,
@@ -137,3 +137,4 @@ Exemplo de conteúdo:
     ignorado: 0,
     erros: []
 }
+```
